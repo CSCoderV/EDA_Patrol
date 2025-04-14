@@ -1,4 +1,4 @@
-# 🔍 EDA Patrol_Random
+# 🔍 EDA Patrol
 **Created during UTA Datathon 2025**
 
 **EDA Patrol_Random** is an end-to-end exploratory data analysis platform designed to transform raw, complex datasets into intuitive, interactive visualizations that tell compelling, data-driven stories. Whether you're a policymaker, researcher, or curious data enthusiast, this tool empowers you to explore insights, simulate scenarios, and make informed decisions.
